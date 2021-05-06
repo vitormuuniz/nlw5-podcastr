@@ -1,8 +1,12 @@
 # Next Level Week 5 🚀
 
-##### To run this application you need to execute the following commands in frontend directory: 
+### To run this application you need to execute the following steps: 
+   ##### First things first execute:
     - yarn install;
+   ##### Open another terminal and then run the command:
+    - yarn server
+   ##### Then execute the following commands
     - yarn build;
     - yarn start;
 
-##### Automatically the application will open a tab on your browser on localhost:3000/.
+##### The application will run on your browser on localhost:3000/.
