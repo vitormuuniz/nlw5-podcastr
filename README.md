@@ -5,7 +5,7 @@
     - yarn install;
    ##### Open another terminal and then run the command:
     - yarn server
-   ##### Then execute the following commands
+   ##### Then in the first terminal execute the following commands:
     - yarn build;
     - yarn start;
 
