@@ -1,5 +1,7 @@
 # Next Level Week 5 🚀
 
+The goal was creating an app to reproduce podcasts using Next.js to develop the web interface.
+
 ### To run this application you need to execute the following steps: 
    ##### First things first execute:
     - yarn install;
